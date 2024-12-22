@@ -1,0 +1,3 @@
+[submodule "external/gattlib"]
+	path = external/gattlib
+	url = https://github.com/GuitarHeroLive/gattlib
